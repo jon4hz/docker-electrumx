@@ -1,6 +1,6 @@
 ARG VERSION=master
 
-FROM python:3.9.16-slim-bullseye
+FROM python:3.13.1-slim-bullseye
 LABEL maintainer="Luke Childs <lukechilds123@gmail.com>"
 
 ARG VERSION
